@@ -4,3 +4,4 @@ baseurl: "" # leave empty for user site
 url: "https://HenryLange.github.io/fantasy-nhl-optimizer"
 theme: minima
 paginate: 5
+#trigger rebuild
