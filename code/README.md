@@ -1,2 +1,1 @@
-# Code folder
-This folder contains all R scripts and RMarkdown files for the Fantasy NHL Optimizer project.
+### This folder contains all R scripts and RMarkdown files for the Fantasy NHL Optimizer project.
