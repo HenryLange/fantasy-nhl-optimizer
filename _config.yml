@@ -10,6 +10,5 @@ paginate: 5
 url: "https://henrylange.github.io"
 baseurl: "/fantasy-nhl-optimizer"
 
-#removing double link from nav bar
-nav:
-  - Home: index.md
+header_pages:
+  - code/README.md 
