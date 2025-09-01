@@ -3,7 +3,7 @@ title: "Project Plan & Structure"
 date: 2025-09-01
 ---
 
-In  this post I am outlining the plan and structure for my NHL fantasy opimizer. I am aiming to keep the workflow organized for coding, analysis, and weekly blog updates as I develop the project. Whether my week is a complete failure or major success, I will report what I learn and gain from each step.
+In this post, I am outlining the plan and structure for my NHL fantasy opimizer. I am aiming to keep the workflow organized for coding, analysis, and weekly blog updates as I develop the project. Whether my week is a complete failure or major success, I will report what I learn and gain from each step.
 
 ---
 
@@ -21,7 +21,7 @@ The main objectives of this project are:
 
 All of my work will appear on this blog. The main page includes a brief introdution into who I am and what I am doing, and below my posts will be listed chronologically. As I go through the process of this, I will share code, visuals, and other findings from my time on R in my posts. However, the final product of my project will be on the "Code" page in the navigation bar.
 
-My posts will show progress and findings, while the code code folder will only contain my final code once I am complete. 
+My posts will show progress and findings, while the code folder will only contain my final code once I am complete. 
 
 If I need to create more folders I will do so as I progress. Each folder will have a specific purpose and title to keep the project organized and easy to navigate
 
