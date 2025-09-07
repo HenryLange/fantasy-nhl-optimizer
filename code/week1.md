@@ -1,6 +1,7 @@
 ---
 title: "Week 1 Code"
 layout: page
+permalink: /code/week1/
 ---
 
 ```r
