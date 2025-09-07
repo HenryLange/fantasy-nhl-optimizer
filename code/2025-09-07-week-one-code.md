@@ -1,5 +1,6 @@
 ---
-title: week one code
+title: "Week 1 Code"
+layout: page
 ---
 
 ```r
