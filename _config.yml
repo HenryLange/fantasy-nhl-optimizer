@@ -11,4 +11,4 @@ url: "https://henrylange.github.io"
 baseurl: "/fantasy-nhl-optimizer"
 
 header_pages:
-  - _code/README.md 
+  - code/README.md 
