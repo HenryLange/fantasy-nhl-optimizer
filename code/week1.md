@@ -130,7 +130,7 @@ rowSums(is.na(player_stats_2425))
 player_stats_2425 <- player_stats_2425 %>%
   mutate(faceoffPercentage = ifelse(position != "C" & is.na(faceoffPercentage), 0, faceoffPercentage))
 
-# Replace NA in shooting percentage with 0 for guys who never scored
+# Replace NA in shooting percentage with 0 for guys who never took a shot
 player_stats_2425 <- player_stats_2425 %>%
   mutate(shootingPercentage = ifelse(is.na(shootingPercentage), 0, shootingPercentage))
 
