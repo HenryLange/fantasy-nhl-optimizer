@@ -7,4 +7,4 @@ layout: page
 
 Here is the code for the Fantasy NHL Optimizer project.
 
-- [Week 1: Data Setup & Cleaning](week1.html)
+- [Week 1: Data Setup & Cleaning](code/week1.md)
