@@ -130,7 +130,7 @@ SV_vs_wins_plot <- ggplot(goalie_stats_2425, aes(x = savePercentage, y = W)) +
 
 SV_vs_wins_plot
 
-# Save the plot as PNG for your blog
+# Save the plot as PNG for the blog
 ggsave("assets/images/SV_vs_wins.png", plot = SV_vs_wins_plot, width = 8, height = 6, dpi = 300)
 
 #create histogram
@@ -156,7 +156,7 @@ GAA_vs_mins_plot <- ggplot(goalie_stats_2425, aes(x = GAA, y = total_mins)) +
 
 GAA_vs_mins_plot
 
-# Save the plot as PNG for your blog
+# Save the plot as PNG for the blog
 ggsave("assets/images/GAA_vs_mins_plot.png", plot = GAA_vs_mins_plot, width = 8, height = 6, dpi = 300)
 
 #that's all the visuals I'll do. I fixed/learned a ton about the datasets, so very worth it.
