@@ -44,47 +44,74 @@ Some stats from Hockey Reference are very complex. For example, there’s a goal
 
 ---
 
-# Visual Time
+# The Visuals
 
-This process was very interesting and important actually. While making my first visual, I found that the numbers in columns weren't actually numeric values amd were discrete values, so making visuals wasn't even possible to begin with. I fixed this as well as many other problems that I ran into along the way that will be shown
+This process was very interesting and important, actually. While making my first visual, I found that the numbers in columns weren't actually numeric values and were discrete values, so making visuals wasn't even possible to begin with. I fixed this, as well as many other problems that I ran into along the way, and they will be shown later on.
 
-my first wisual was a distribution of skaters' points. It was in this step that I got an error and realized my values weren't numeric. However once I fixed that, the visual worked!
+My first visual was a **distribution of skaters' points.** It was in this step that I got an error and realized my values weren't numeric. However, once I fixed that, the visual worked!
 
 ![Points Distribution]({{ site.baseurl }}/assets/images/Dist_of_skater_points.png)
 
-Once I fixed that problem, the distribution worked perfectly. This distribution displays that there are a lot of players who get no points all year, and as the amount of points increase, the number of players at that point value decrease.
+Once I fixed that problem, the distribution worked perfectly. This distribution displays that there are a lot of players who get no points all year, and as the amount of points increases, the number of players at that point value decreases. We can also see top players like **Kucherov** and **Draisaitl** at the very end with a tiny bar.
 
 ---
 
 ### Age vs Points
 ![Age vs Points]({{ site.baseurl }}/assets/images/age_vs_PTS.png)
 
+I was also interested in how age related to performance. I wondered if older players lost some ability as they aged or if their experience made them perform better. I plotted age and points and, this was the result. It turns out that the oldest and youngest players don't do the best, but it's the players aged in the middle of the pack who get the most points.
+
 ---
 
 ### Points by Position
 ![Points by Position]({{ site.baseurl }}/assets/images/PTS_by_position_plot.png)
+
+I also wanted to find out if certain positions did better than others when it came to getting points. Obviously, offensive players are likely to get more goals than defensive players, but a lot of defensemen like **Lane Hutson** get a lot of assists. To visualize this, I made box plots for points and each position. Through this step, I found that there are the main 5 positions, but there is also a position **"W"** for wing, and **"F"** for forward. I was unaware of these positions before I made this plot. The plot for W looks very above average, while for F it looks very below average
 
 ---
 
 ### Time on Ice vs Points (All Players)
 ![TOI vs Points]({{ site.baseurl }}/assets/images/TOI_vs_Points.png)
 
+Lastly, for players, I wanted to see if there was a correlation between the time on ice a player gets and the points they have. The first challenge I ran into, was the **"time on ice"** stat was listed as some number like **"1641:21,"** and this colon didn't allow for a visual right away. I had to solve this by separating this column into two, one called mins and one called sec. I then did a little math with that to get a new column that was some amount of minutes like **"1641.34567"** that could be used. I did that, then I made the plot seen above. However, as seen with the line of points at the bottom of the plot, there were some players that had over 3000 minutes and a very small amount of points. How is this possible? It turns out that goalies were actually included in my dataset. I fixed this, as shown below.
+
 ---
 
 ### Time on Ice vs Points (No Goalies)
 ![TOI vs Points No Goalies]({{ site.baseurl }}/assets/images/TOI_vs_Points_no_goalies.png)
+
+I removed all goalies from the player dataset and made this new plot. It looks much better after this change. And there is actually a noticeable correlation between time on ice and points, which makes sense because a player who gets more points will likely be played more. **Now onto the goalie visuals!**
 
 ---
 
 ### Goalie Save Percentage vs Wins
 ![Save Percentage vs Wins]({{ site.baseurl }}/assets/images/SV_vs_wins.png)
 
+For goalies, the first thing I wanted to do was analyze or visualize **save percentage** since I know how much this stat is valued for a goalie. I plotted save percentage vs wins to see if a goalie's save percentage was correlated to more wins for his team. From the graph, we see that while there are some outlier goalies with very low save percentage, a lot of goalies fall between 0.85 and 0.95, and within this range there are goalies with very few wins but also some with a very high amount of wins. A correlation is hard to get from this plot.
+
 ---
 
 ### Goalie GAA vs Minutes Played
 ![GAA vs Minutes Played]({{ site.baseurl }}/assets/images/GAA_vs_mins_plot.png)
 
+I also wanted to test **Goals against average (GAA)** and see how time played by a goalie correlated to their GAA. Does more time correlate to the goalie being better and having a lower GAA, or does more time leave goalies with more opportunities to be scored on and correlate to a lower GAA? This visual shows that many goalies fall around **2.5-3 GAA**, and some goalies have a ton of time while some have very little. Again, correlation is hard to get from this plot.
 ---
 
 ### Save Percentage Histogram
 ![Save Percentage Histogram]({{ site.baseurl }}/assets/images/save_percentage_histogram.png)
+
+Lastly, I wanted to look at save percentage league-wide. I made a histogram for save percentage and the results aren't too surprising unless you have limited knowledge about goalies in hockey. A lot of goalies fall between 0.85 and 0.95 save percentage, with some goalies on the lower side and higher side. 
+
+---
+
+### In conclusion
+
+I'm glad I made all the visuals I did. I found a lot of small errors in my dataset that I was able to fix, like the time with a colon in it, all numbers being discrete values, and goalies being in the player dataset. I learned a lot, like the "W" and "F" positions and about how different stats correlate. I think I am now in a great position to get into the optimization process next
+
+Additionally, this post was supposed to be released yesterday, however, some of the problems I ran into caused me to have to research for a long time, and I wasn't able to get all my code as well as this post out on the exact time. Nevertheless, I will continue to follow my schedule/structure that I planned at the start of this project.
+
+---
+
+### What's next?
+
+Now I am all set and ready to get into the optimization. I have already learned a bunch so far, but I think it is this step that I will learn the most and be able to share a lot of that. I'm excited to get that started!
