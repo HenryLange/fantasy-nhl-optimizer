@@ -111,6 +111,8 @@ I'm glad I made all the visuals I did. I found a lot of small errors in my datas
 
 Additionally, this post was supposed to be released yesterday, however, some of the problems I ran into caused me to have to research for a long time, and I wasn't able to get all my code as well as this post out on the exact time. Nevertheless, I will continue to follow my schedule/structure that I planned at the start of this project.
 
+You can find my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
+
 ---
 
 ### What's next?
