@@ -1,6 +1,6 @@
 ---
-title: "Week 1.5: exploring the data and visuals
-date: 2025-09-11
+title: "Week 1.5: exploring the data and visuals"
+date: 2025-09-12
 ---
 
 So, in the last post, I showed a lot about what I did with the data to clean it up to a state where working with it will be smooth. However, something the last week’s post lacked is what was left over in the data after removing all the problems in it. For example, questions like **“what stats do you even have in player data? or for goalie data?”** were left unanswered unless you dove deep into my code. That’s what this week is supposed to cover. What exactly I have in my table of thousands of NHL players.
