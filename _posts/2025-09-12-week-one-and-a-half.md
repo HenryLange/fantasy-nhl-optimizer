@@ -48,9 +48,10 @@ Some stats from Hockey Reference are very complex. For example, there’s a goal
 
 This process was very interesting and important actually. While making my first visual, I found that the numbers in columns weren't actually numeric values amd were discrete values, so making visuals wasn't even possible to begin with. I fixed this as well as many other problems that I ran into along the way that will be shown
 
-my first wisual was a distribution of skaters' points. It was in this step that I got an error and realized my values weren't numeric. however once I fixed that, the visual worked!
+my first wisual was a distribution of skaters' points. It was in this step that I got an error and realized my values weren't numeric. However once I fixed that, the visual worked!
 
 ![Points Distribution]({{ site.baseurl }}/assets/images/Dist_of_skater_points.png)
 
+Once I fixed that problem, the distribution worked perfectly. This distribution displays that there are a lot of players who get no points all year, and as the amount of points increase, the number of players at that point value decrease.
 
-test for visual format. hi
+
