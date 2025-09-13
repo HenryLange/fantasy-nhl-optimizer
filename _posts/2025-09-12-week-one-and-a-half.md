@@ -56,18 +56,13 @@ Once I fixed that problem, the distribution worked perfectly. This distribution 
 
 ---
 
-### Goalie GAA vs Minutes Played
-![GAA vs Minutes Played]({{ site.baseurl }}/assets/images/GAA_vs_mins_plot.png)
+### Age vs Points
+![Age vs Points]({{ site.baseurl }}/assets/images/age_vs_PTS.png)
 
 ---
 
 ### Points by Position
 ![Points by Position]({{ site.baseurl }}/assets/images/PTS_by_position_plot.png)
-
----
-
-### Goalie Save Percentage vs Wins
-![Save Percentage vs Wins]({{ site.baseurl }}/assets/images/SV_vs_wins.png)
 
 ---
 
@@ -81,8 +76,13 @@ Once I fixed that problem, the distribution worked perfectly. This distribution 
 
 ---
 
-### Age vs Points
-![Age vs Points]({{ site.baseurl }}/assets/images/age_vs_PTS.png)
+### Goalie Save Percentage vs Wins
+![Save Percentage vs Wins]({{ site.baseurl }}/assets/images/SV_vs_wins.png)
+
+---
+
+### Goalie GAA vs Minutes Played
+![GAA vs Minutes Played]({{ site.baseurl }}/assets/images/GAA_vs_mins_plot.png)
 
 ---
 
