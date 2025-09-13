@@ -54,4 +54,37 @@ my first wisual was a distribution of skaters' points. It was in this step that 
 
 Once I fixed that problem, the distribution worked perfectly. This distribution displays that there are a lot of players who get no points all year, and as the amount of points increase, the number of players at that point value decrease.
 
+---
 
+### Goalie GAA vs Minutes Played
+![GAA vs Minutes Played]({{ site.baseurl }}/assets/images/GAA_vs_mins_plot.png)
+
+---
+
+### Points by Position
+![Points by Position]({{ site.baseurl }}/assets/images/PTS_by_position_plot.png)
+
+---
+
+### Goalie Save Percentage vs Wins
+![Save Percentage vs Wins]({{ site.baseurl }}/assets/images/SV_vs_wins.png)
+
+---
+
+### Time on Ice vs Points (All Players)
+![TOI vs Points]({{ site.baseurl }}/assets/images/TOI_vs_Points.png)
+
+---
+
+### Time on Ice vs Points (No Goalies)
+![TOI vs Points No Goalies]({{ site.baseurl }}/assets/images/TOI_vs_Points_no_goalies.png)
+
+---
+
+### Age vs Points
+![Age vs Points]({{ site.baseurl }}/assets/images/age_vs_PTS.png)
+
+---
+
+### Save Percentage Histogram
+![Save Percentage Histogram]({{ site.baseurl }}/assets/images/save_percentage_histogram.png)
