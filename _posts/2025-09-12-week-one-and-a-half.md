@@ -95,6 +95,7 @@ For goalies, the first thing I wanted to do was analyze or visualize **save perc
 ![GAA vs Minutes Played]({{ site.baseurl }}/assets/images/GAA_vs_mins_plot.png)
 
 I also wanted to test **Goals against average (GAA)** and see how time played by a goalie correlated to their GAA. Does more time correlate to the goalie being better and having a lower GAA, or does more time leave goalies with more opportunities to be scored on and correlate to a lower GAA? This visual shows that many goalies fall around **2.5-3 GAA**, and some goalies have a ton of time while some have very little. Again, correlation is hard to get from this plot.
+
 ---
 
 ### Save Percentage Histogram
