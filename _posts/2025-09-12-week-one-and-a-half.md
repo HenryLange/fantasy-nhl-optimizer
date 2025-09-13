@@ -50,6 +50,6 @@ This process was very interesting and important actually. While making my first 
 
 my first wisual was a distribution of skaters' points. It was in this step that I got an error and realized my values weren't numeric. however once I fixed that, the visual worked!
 
-![Points Distribution]({{ site.baseurl }}/assets/images/dist_of_skater_points.png)
+![Points Distribution](https://henrylange.github.io/fantasy-nhl-optimizer/assets/images/dist_of_skater_points.png)
 
 test for visual format
