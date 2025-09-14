@@ -1,3 +1,9 @@
+---
+title: "Week 2 Code"
+layout: page
+permalink: /code/week2/
+---
+
 ```r
 
 ####################
