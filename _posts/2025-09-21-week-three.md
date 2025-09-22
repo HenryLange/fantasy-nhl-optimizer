@@ -28,6 +28,7 @@ I couldn’t do the same thing for goalies that I did with players since even th
 Now that I had these projections, I was another step closer to truly optimizing the draft, especially for leagues with no restriction on salary cap or the makeup of a roster. With these projections, I then made all new tables that give the best options for players to select based on position. I made a table with the top 10 fantasy point getters of each position, but I also wanted one that showed more players in case someone is in a much larger league. That led me to make a new table for each position “C, RW, LW, W, D, and F” with the greatest point getters on the top and least on the bottom. Here is what that looks like for Centers, Defense, and goalies:
 
 Centers:
+
 |player           | Proj_fantasy_points|
 |:----------------|-------------------:|
 |Nathan MacKinnon |            515.8734|
@@ -41,7 +42,10 @@ Centers:
 |Jake Guentzel    |            377.2000|
 |Sam Reinhart     |            376.2658|
 
+---
+
 Defense:
+
 |player           | Proj_fantasy_points|
 |:----------------|-------------------:|
 |Cale Makar       |            459.2000|
@@ -55,7 +59,10 @@ Defense:
 |Jake Walman      |            315.3846|
 |Jake Sanderson   |            314.6750|
 
+---
+
 Goalies:
+
 |player              | Proj_fantasy_points|
 |:-------------------|-------------------:|
 |Connor Hellebuyck   |               339.8|
