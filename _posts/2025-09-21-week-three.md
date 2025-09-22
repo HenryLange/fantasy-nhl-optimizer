@@ -96,11 +96,11 @@ I just can’t get enough of the data visualization, so I had to do more. This t
 
 The visualization below highlights the **10 skaters with the highest projected fantasy points** based on my scoring system. It makes it easy to see which players stand out as elite options. Names like MacKinnon and Draisaitl rise clearly above the rest
 
-![top10_players_by_projected_points]({{ site.baseurl }}/assets/images/top10_porjected_skaters_real.png)
+![top10_players_by_projected_points]({{ site.baseurl }}/assets/images/top10_projected_skaters_real.png)
 
 Goalies play a very different role in fantasy hockey, but this bar chart shows the **10 most valuable goalies by projected fantasy points.** Again, highly known names like Hellebuyck and Vasilevskiy are at the top.
 
-![top10_goalies_by_projected_points]({{ site.baseurl }}/assets/images/top10_porjected_goalies.png)
+![top10_goalies_by_projected_points]({{ site.baseurl }}/assets/images/top10_projected_goalies.png)
 
 Something similar between the two visuals is that there are a couple of players who do much better than the rest of the top 10, and those other six to seven players have a very close projected point spread.
 
