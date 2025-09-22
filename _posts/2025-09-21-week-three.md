@@ -1,5 +1,5 @@
 ---
-title: "Week 3: adding filters, projections, and improving tables”
+title: "Week 3: adding filters, projections, and improving tables"
 date: 2025-09-21
 ---
 
