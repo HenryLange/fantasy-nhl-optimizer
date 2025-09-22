@@ -16,7 +16,8 @@ player_stats_2425 <- player_stats_2425 %>%
 
 # I'm not gonna do the same For goalies since they don't play 82 games. It's better to use their points from last year as a projection
 goalie_stats_2425 <- goalie_stats_2425 %>% 
-  mutate(Proj_fantasy_points = fantasy_points)
+  mutate(Proj_fantasy_points = fantasy_points,
+         avg_fantasy_points = fantasy_points/GP)
 
 # finding best players based on projected points for skaters by position
 top_players_by_position <- player_stats_2425 %>%
@@ -75,9 +76,16 @@ top_players_by_proj_points
 # making a table ranking by projected points, keeping all stats in this table
 top_goalies_by_proj_points <- goalie_stats_2425 %>% 
   arrange(desc(Proj_fantasy_points)) %>% 
-  filter(GS >= 10)
+  filter(GS >= 15)
 
 top_goalies_by_proj_points
+
+# my other way to measure/predict goalies
+top_goalies_by_avg_points = goalie_stats_2425 %>% 
+  arrange(desc(avg_fantasy_points)) %>% 
+  filter(GS >= 15)
+
+top_goalies_by_avg_points
 
 # im also gonna add that filter to my other tables
 
@@ -152,5 +160,24 @@ top10_projected_goalies
 
 # save for blog
 ggsave("assets/images/top10_projected_goalies.png", plot = top10_projected_goalies, width = 8, height = 6, dpi = 300)
+
+#getting top 10 center rows for blog
+top10_centers = centers %>% 
+  slice(1:10)
+
+kable(top10_centers, format = "markdown")
+
+#getting top 10 defense rows for blog
+top10_defense = defense %>% 
+  slice(1:10)
+
+kable(top10_defense, format = "markdown")
+
+#getting top 10 goalie rows for blog
+
+top10_goalies_condensed = top10_goalies %>% 
+  select(player, Proj_fantasy_points)
+
+kable(top10_goalies_condensed, format = "markdown")
 ```
 
