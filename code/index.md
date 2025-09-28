@@ -14,3 +14,5 @@ Here is the code for the Fantasy NHL Optimizer project.
 - [Week 2: scoring system and setting up optimization](https://henrylange.github.io/fantasy-nhl-optimizer/code/week2/)
 
 - [Week 3: adding filters, projections, and improving tables](https://henrylange.github.io/fantasy-nhl-optimizer/code/week3/)
+
+- [Week 4: restrictions and draft simulations](https://henrylange.github.io/fantasy-nhl-optimizer/code/week4/)
