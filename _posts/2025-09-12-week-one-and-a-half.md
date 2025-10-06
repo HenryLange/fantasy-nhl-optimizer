@@ -1,5 +1,5 @@
 ---
-title: "Week 1.5: exploring the data and visuals"
+title: "Week 1.5: Exploring the Data and Visuals"
 date: 2025-09-12
 ---
 
