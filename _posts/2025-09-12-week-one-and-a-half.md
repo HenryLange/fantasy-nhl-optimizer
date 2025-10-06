@@ -3,7 +3,7 @@ title: "Week 1.5: Exploring the Data and Visuals"
 date: 2025-09-12
 ---
 
-So, in the last post, I showed a lot about what I did with the data to clean it up to a state where working with it will be smooth. However, something the last week’s post lacked is what was left over in the data after removing all the problems in it. For example, questions like **“what stats do you even have in player data? or for goalie data?”** were left unanswered unless you dove deep into my code. That’s what this week is supposed to cover. What exactly I have in my table of thousands of NHL players.
+So, in the last post, I showed a lot about what I did with the data to clean it up to a state where working with it will be smooth. However, something the last week’s post lacked is what was left over in the data after removing all the problems in it. For example, questions like **“what stats do you even have in player data? Or for goalie data?”** were left unanswered unless you dove deep into my code. That’s what this week is supposed to cover. What exactly do I have in my table of thousands of NHL players?
 
 ---
 
@@ -59,7 +59,7 @@ Once I fixed that problem, the distribution worked perfectly. This distribution 
 ### Age vs Points
 ![Age vs Points]({{ site.baseurl }}/assets/images/age_vs_PTS.png)
 
-I was also interested in how age related to performance. I wondered if older players lost some ability as they aged or if their experience made them perform better. I plotted age and points and, this was the result. It turns out that the oldest and youngest players don't do the best, but it's the players aged in the middle of the pack who get the most points.
+I was also interested in how age related to performance. I wondered if older players lost some ability as they aged or if their experience made them perform better. I plotted age and points, and this was the result. It turns out that the oldest and youngest players don't do the best, but it's the players aged in the middle of the pack who get the most points.
 
 ---
 
@@ -73,7 +73,7 @@ I also wanted to find out if certain positions did better than others when it ca
 ### Time on Ice vs Points (All Players)
 ![TOI vs Points]({{ site.baseurl }}/assets/images/TOI_vs_Points.png)
 
-Lastly, for players, I wanted to see if there was a correlation between the time on ice a player gets and the points they have. The first challenge I ran into, was the **"time on ice"** stat was listed as some number like **"1641:21,"** and this colon didn't allow for a visual right away. I had to solve this by separating this column into two, one called mins and one called sec. I then did a little math with that to get a new column that was some amount of minutes like **"1641.34567"** that could be used. I did that, then I made the plot seen above. However, as seen with the line of points at the bottom of the plot, there were some players that had over 3000 minutes and a very small amount of points. How is this possible? It turns out that goalies were actually included in my dataset. I fixed this, as shown below.
+Lastly, for players, I wanted to see if there was a correlation between the time on ice a player gets and the points they have. The first challenge I ran into was that the **" time on ice"** stat was listed as some number like **"1641:21,"** and this colon didn't allow for a visual right away. I had to solve this by separating this column into two, one called mins and one called sec. I then did a little math with that to get a new column that was some amount of minutes, like **"1641.34567"** that could be used. I did that, then I made the plot seen above. However, as seen with the line of points at the bottom of the plot, there were some players that had over 3000 minutes and a very small amount of points. How is this possible? It turns out that goalies were actually included in my dataset. I fixed this, as shown below.
 
 ---
 
@@ -87,7 +87,7 @@ I removed all goalies from the player dataset and made this new plot. It looks m
 ### Goalie Save Percentage vs Wins
 ![Save Percentage vs Wins]({{ site.baseurl }}/assets/images/SV_vs_wins.png)
 
-For goalies, the first thing I wanted to do was analyze or visualize **save percentage** since I know how much this stat is valued for a goalie. I plotted save percentage vs wins to see if a goalie's save percentage was correlated to more wins for his team. From the graph, we see that while there are some outlier goalies with very low save percentage, a lot of goalies fall between 0.85 and 0.95, and within this range there are goalies with very few wins but also some with a very high amount of wins. A correlation is hard to get from this plot.
+For goalies, the first thing I wanted to do was analyze or visualize **save percentage** since I know how much this stat is valued for a goalie. I plotted save percentage vs wins to see if a goalie's save percentage was correlated to more wins for his team. From the graph, we see that while there are some outlier goalies with very low save percentages, a lot of goalies fall between 0.85 and 0.95, and within this range, there are goalies with very few wins but also some with a very high amount of wins. A correlation is hard to get from this plot.
 
 ---
 
@@ -101,7 +101,7 @@ I also wanted to test **Goals against average (GAA)** and see how time played by
 ### Save Percentage Histogram
 ![Save Percentage Histogram]({{ site.baseurl }}/assets/images/save_percentage_histogram.png)
 
-Lastly, I wanted to look at save percentage league-wide. I made a histogram for save percentage and the results aren't too surprising unless you have limited knowledge about goalies in hockey. A lot of goalies fall between 0.85 and 0.95 save percentage, with some goalies on the lower side and higher side. 
+Lastly, I wanted to look at the save percentage league-wide. I made a histogram for save percentage, and the results aren't too surprising unless you have limited knowledge about goalies in hockey. A lot of goalies fall between 0.85 and 0.95 save percentage, with some goalies on the lower side and higher side. 
 
 ---
 
@@ -109,7 +109,7 @@ Lastly, I wanted to look at save percentage league-wide. I made a histogram for 
 
 I'm glad I made all the visuals I did. I found a lot of small errors in my dataset that I was able to fix, like the time with a colon in it, all numbers being discrete values, and goalies being in the player dataset. I learned a lot, like the "W" and "F" positions and about how different stats correlate. I think I am now in a great position to get into the optimization process next
 
-Additionally, this post was supposed to be released yesterday, however, some of the problems I ran into caused me to have to research for a long time, and I wasn't able to get all my code as well as this post out on the exact time. Nevertheless, I will continue to follow my schedule/structure that I planned at the start of this project.
+Additionally, this post was supposed to be released yesterday; however, some of the problems I ran into caused me to have to research for a long time, and I wasn't able to get all my code as well as this post out at the exact time. Nevertheless, I will continue to follow my schedule/structure that I planned at the start of this project.
 
 You can find my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
 
