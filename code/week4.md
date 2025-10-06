@@ -1,4 +1,10 @@
-```
+---
+title: "Week 4 Code"
+layout: page
+permalink: /code/week4/
+---
+
+```r
 ##########################
 ### WEEK 4 OPTIMZATION ###
 ##########################
