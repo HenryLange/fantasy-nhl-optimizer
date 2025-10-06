@@ -31,13 +31,13 @@ If I need to create more folders I will do so as I progress. Each folder will ha
 
 Here’s the roadmap I plan to follow:
 
-1. **Week 1:** Set up project, load initial data  
-2. **Week 1.5:** Explore the NHL dataset and summarize stats (hope to have fun with some visuals here) 
-3. **Week 2:** Implement scoring system and basic optimizer  
-4. **Week 3:** Add filters, projections, and improved tables  
-5. **Week 4:** Draft simulations and advanced scoring features  
-6. **Week 5:** Refine code, clean functions, and outputs  
-7. **Week 6:** Wrap-up, final reflections, and blog summary  
+1. **Week 1:** Set Up Project and Load Initial Data  
+2. **Week 1.5:** Explore the NHL Dataset and Summarize Dtats (hope to have fun with some visuals here) 
+3. **Week 2:** Implement Scoring System and Basic Optimizer  
+4. **Week 3:** Add Filters, Projections, and Improved Tables  
+5. **Week 4:** Restrictions and Draft Simulations  
+6. **Week 5:** Advanced Drafts and Custom Score Weighting  
+7. **Week 6:** Tool Creation and Exploring What's Next 
 
 ---
 
@@ -46,7 +46,7 @@ Here’s the roadmap I plan to follow:
 The project will use R and several key libraries within it:  
 - `tidyverse` for data manipulation (tidyverse is just unmatched) 
 - `ggplot2` for visualizations  
-- `lpSolve` (or similar) for optimization  
+- `lpSolve` for optimization  
 - RMarkdown for documenting analysis and generating outputs  
 
 ---
