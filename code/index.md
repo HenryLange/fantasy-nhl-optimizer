@@ -7,12 +7,14 @@ layout: page
 
 Here is the code for the Fantasy NHL Optimizer project.
 
-- [Week 1: Data Setup & Cleaning](https://henrylange.github.io/fantasy-nhl-optimizer/code/week1/)
+- [Week 1: Data Setup and Cleaning](https://henrylange.github.io/fantasy-nhl-optimizer/code/week1/)
 
-- [Week 1.5: Data visualization](https://henrylange.github.io/fantasy-nhl-optimizer/code/week-one-and-a-half/)
+- [Week 1.5: Data Visualization](https://henrylange.github.io/fantasy-nhl-optimizer/code/week-one-and-a-half/)
 
-- [Week 2: scoring system and setting up optimization](https://henrylange.github.io/fantasy-nhl-optimizer/code/week2/)
+- [Week 2: Scoring System and Setting Up Optimization](https://henrylange.github.io/fantasy-nhl-optimizer/code/week2/)
 
-- [Week 3: adding filters, projections, and improving tables](https://henrylange.github.io/fantasy-nhl-optimizer/code/week3/)
+- [Week 3: Adding Filters, Projections, and Improving Tables](https://henrylange.github.io/fantasy-nhl-optimizer/code/week3/)
 
-- [Week 4: restrictions and draft simulations](https://henrylange.github.io/fantasy-nhl-optimizer/code/week4/)
+- [Week 4: Restrictions and Draft Simulations](https://henrylange.github.io/fantasy-nhl-optimizer/code/week4/)
+
+- [Week 5: Advanced Drafts and Custom Score Weighting](https://henrylange.github.io/fantasy-nhl-optimizer/code/week5/)
