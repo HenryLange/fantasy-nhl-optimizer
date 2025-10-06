@@ -19,7 +19,7 @@ The main objectives of this project are:
 
 ### Project Structure
 
-All of my work will appear on this blog. The main page includes a brief introdution into who I am and what I am doing, and below my posts will be listed chronologically. As I go through the process of this, I will share code, visuals, and other findings from my time on R in my posts. However, the final product of my project will be on the "Code" page in the navigation bar.
+All of my work will appear on this blog. The main page includes a brief introduction into who I am and what I am doing, and below, my posts will be listed chronologically. As I go through the process of this, I will share code, visuals, and other findings from my time on R, in my posts. However, the final product of my project will be on the "Code" page in the navigation bar.
 
 My posts will show progress and findings, while the code folder will only contain my final code once I am complete. 
 
