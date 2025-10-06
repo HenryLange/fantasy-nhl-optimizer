@@ -25,7 +25,7 @@ What this step does is take each player and find how many **fantasy points they 
 
 
 ### Goalie Projections 
-I couldn’t do the same thing for goalies that I did with players since even the best goalies don’t play 82 games. If I averaged each goalie’s fantasy points and scaled that amount by 82, it wouldn’t be a good predictor of the points they’d get this season. I made **2 measures** for goalies to overcome this. First, I made one I just called a projection, but it was just **the number of fantasy points they got the year prior.** This is probably the closest I would get with a prediction given the randomness of the position. The other thing I did to measure was just **find the average fantasy points per game for each goalie and not scale it at all.** Theoretically, this would be a good way to find which goalies did the best when it came to getting fantasy points.
+I couldn’t do the same thing for goalies that I did with players, since even the best goalies don’t play 82 games. If I averaged each goalie’s fantasy points and scaled that amount by 82, it wouldn’t be a good predictor of the points they’d get this season. I made **2 measures** for goalies to overcome this. First, I made one I just called a projection, but it was just **the number of fantasy points they got the year prior.** This is probably the closest I would get with a prediction, given the randomness of the position. The other thing I did to measure was just **find the average fantasy points per game for each goalie and not scale it at all.** Theoretically, this would be a good way to find which goalies did the best when it came to getting fantasy points.
 
 
 ---
@@ -92,7 +92,7 @@ Goalies:
 
 
 ### fixing small issues
-One thing that I initially ran into when making these tables is that some players had one game played where they did very well, so their fantasy point projection was very high. I looked down my tables for all positions and noticed that there were some players like that in every table, who had 1-3 games played, but an insanely high projection. This obviously wasn’t good because who even knows if those players will be available to draft in the upcoming season. All I did to fix this was add filters for games played being greater than or equal to 30 for players, and Games started being greater than or equal 10 to 15 for goalies. That solved the problem. Here is an example of that:
+One thing that I initially ran into when making these tables is that some players had one game played where they did very well, so their fantasy point projection was very high. I looked down my tables for all positions and noticed that there were some players like that in every table, who had 1-3 games played, but an insanely high projection. This obviously wasn’t good because who even knows if those players will be available to draft in the upcoming season? All I did to fix this was add filters for games played being greater than or equal to 30 for players, and Games started being greater than or equal to 10 to 15 for goalies. That solved the problem. Here is an example of that:
 ```
 # for Centers
 centers <- player_stats_2425 %>%
@@ -124,7 +124,7 @@ Something similar between the two visuals is that there are a couple of players 
 
 
 ### What’s next?
-This week is much closer to optimization than any of the other weeks. I now have projections for players by positions, and one could follow these tables to pick a team with the highest projected points based on which players are available. However, this is still quite simple, and I’m hoping to dive even deeper next week.
+This week is much closer to optimization than any of the other weeks. I now have projections for players by position, and one could follow these tables to pick a team with the highest projected points based on which players are available. However, this is still quite simple, and I’m hoping to dive even deeper next week.
 
 You can see my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
 
