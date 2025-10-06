@@ -1,4 +1,10 @@
-```
+---
+title: "Week 5 Code"
+layout: page
+permalink: /code/week5/
+---
+
+```r
 ##############
 ### WEEK 5 ###
 ##############
