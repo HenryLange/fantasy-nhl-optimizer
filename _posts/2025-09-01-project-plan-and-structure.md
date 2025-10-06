@@ -3,7 +3,7 @@ title: "Project Plan & Structure"
 date: 2025-09-01
 ---
 
-In this post, I am outlining the plan and structure for my NHL fantasy opimizer. I am aiming to keep the workflow organized for coding, analysis, and weekly blog updates as I develop the project. Whether my week is a complete failure or major success, I will report what I learn and gain from each step.
+In this post, I am outlining the plan and structure for my NHL fantasy opimizer. I am aiming to keep the workflow organized for coding, analysis, and weekly blog updates as I develop the project. Whether my week is a complete failure or a major success, I will report what I learn and gain from each step.
 
 ---
 
@@ -13,7 +13,7 @@ The main objectives of this project are:
 - Build a Fantasy NHL team optimizer tool using only R.  
 - Explore player stats and projections to inform decisions.  
 - Apply optimization and simulation techniques to select the best fantasy lineups.  
-- Document progress and reflections on the blog each week (weekly posts every sunday). 
+- Document progress and reflections on the blog each week (weekly posts every Sunday). 
 
 ---
 
@@ -23,7 +23,7 @@ All of my work will appear on this blog. The main page includes a brief introdut
 
 My posts will show progress and findings, while the code folder will only contain my final code once I am complete. 
 
-If I need to create more folders I will do so as I progress. Each folder will have a specific purpose and title to keep the project organized and easy to navigate
+If I need to create more folders, I will do so as I progress. Each folder will have a specific purpose and title to keep the project organized and easy to navigate
 
 ---
 
@@ -32,7 +32,7 @@ If I need to create more folders I will do so as I progress. Each folder will ha
 Here’s the roadmap I plan to follow:
 
 1. **Week 1:** Set Up Project and Load Initial Data  
-2. **Week 1.5:** Explore the NHL Dataset and Summarize Dtats (hope to have fun with some visuals here) 
+2. **Week 1.5:** Explore the NHL Dataset and Summarize Data (hope to have fun with some visuals here) 
 3. **Week 2:** Implement Scoring System and Basic Optimizer  
 4. **Week 3:** Add Filters, Projections, and Improved Tables  
 5. **Week 4:** Restrictions and Draft Simulations  
@@ -53,4 +53,6 @@ The project will use R and several key libraries within it:
 
 ### What's next?
 
-in the following week I will dive into loading and exploring the NHL dataset, summarizing key stats, and preparing it for the optimizer. I will spend time looking for a great dataset, and I want to become familiar with that dataset so the optimization works how I intend it to. Taking the time to go through the dataset and learn more about it before I make this tool will all be tracked and documented in my next post on Sunday.
+In the following week, I will dive into loading and exploring the NHL dataset, summarizing key stats, and preparing it for the optimizer. I will spend time looking for a great dataset, and I want to become familiar with that dataset so the optimization works how I intend it to. Taking the time to go through the dataset and learn more about it before I make this tool will all be tracked and documented in my next post on Sunday.
+
+
