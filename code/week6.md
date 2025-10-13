@@ -1,3 +1,10 @@
+---
+title: "Week 6 Code"
+layout: page
+permalink: /code/week6/
+---
+
+
 Code in regular/original file:
 ```
 ##############
