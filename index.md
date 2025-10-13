@@ -8,4 +8,4 @@ This blog follows my journey as I develop a tool to optimize fantasy points base
 
 I'm attempting to combine years of playing experience with data analysis to uncover patterns that can improve both your hockey knowledge and your fantasy results. Join me as I explore the intersection of hockey instinct and analytical precision.
 
-CURRENT VERSION OF THE FANTASY OPTIMIZER: https://henrylange.shinyapps.io/fantasy_nhl_optimizer/ 
+[View the current version of the fantasy optimizer here!](https://henrylange.shinyapps.io/fantasy_nhl_optimizer/)
