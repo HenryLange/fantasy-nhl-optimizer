@@ -7,3 +7,5 @@ I'm Henry Lange, and hockey has been my passion for 13 years. As a former goalie
 This blog follows my journey as I develop a tool to optimize fantasy points based on league requirements and available players. Whether you're a hockey fan looking for deeper insights or someone seeking an edge in your fantasy league, I'll be sharing my progress, findings, and discoveries as I work to understand what truly drives success in fantasy, and how to translate that into success with my tool.
 
 I'm attempting to combine years of playing experience with data analysis to uncover patterns that can improve both your hockey knowledge and your fantasy results. Join me as I explore the intersection of hockey instinct and analytical precision.
+
+CURRENT VERSION OF THE FANTASY OPTIMIZER: https://henrylange.shinyapps.io/fantasy_nhl_optimizer/ 
