@@ -18,3 +18,5 @@ Here is the code for the Fantasy NHL Optimizer project.
 - [Week 4: Restrictions and Draft Simulations](https://henrylange.github.io/fantasy-nhl-optimizer/code/week4/)
 
 - [Week 5: Advanced Drafts and Custom Score Weighting](https://henrylange.github.io/fantasy-nhl-optimizer/code/week5/)
+
+- [Week 6: Tool Creation and Exploring What's Next](https://henrylange.github.io/fantasy-nhl-optimizer/code/week6/)
