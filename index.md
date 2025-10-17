@@ -3,7 +3,7 @@ layout: home
 title: Welcome to My Fantasy NHL Optimizer
 ---
 
-I'm Henry Lange, and hockey has shaped my life for over 13 years. As a former goalie for Team Illinois and the U18 West Dundee Leafs, I've experienced much of what this complex sport has to offer. This past summer majorly changed my athletic and academic trajectory, and I'm now channeling my on-ice knowledge into NHL analytics and fantasy optimization.
+I'm Henry Lange, and hockey has shaped my life for over the past 13 years. As a former goalie for Team Illinois and the U18 West Dundee Leafs, I've experienced much of what this complex sport has to offer. This past summer majorly changed my athletic and academic trajectory, and I'm now channeling my on-ice knowledge into NHL analytics and fantasy optimization.
 
 That change began at Wharton's Moneyball academy in July 2025, where I first learned to code in R and how to apply math and statistics concepts to real data. After the program ended, I kept exploring through an online data analytics course and a finance course. Reading, practicing, and taking quizzes online expanded my skillset, but I know the best way to keep developing is to apply what I'm learning. So, I'm coming back to what I know best—hockey.
 
