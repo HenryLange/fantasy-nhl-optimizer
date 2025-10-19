@@ -45,13 +45,14 @@ ui <- fluidPage(
   hr(),
   
   # instructions/description
-  HTML("
+   HTML("
   <p style='font-size:16px; color:#0038A8;'>
     Welcome to my NHL Fantasy Optimizer! <br>
     1. Use the sliders on the left to set skater scoring weights and on the right for goalie weights. <br>
     2. Using the drop down in the bottom right, search and select players that have been taken in your draft so they don't appear as availible in the optimizer. <br>
-    3. Click <b>Run Optimizer</b> to see the top available players after you've entered all weights and drafted players in your league. <br>
-    4. Use <b>Reset Weights</b> to return all sliders to default values if needed.
+    3. Using the 'filter by position' option in the bottom right, choose the position of players you wish to see in the table. <br>
+    4. Use <b>Reset Weights</b> to return all sliders to default values if needed. <br>
+    5. If you wish to compare 2 players, you can do so at the bottom of the page with both skaters and goalies. <br>
   </p>
 "),
   
