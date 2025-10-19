@@ -290,7 +290,7 @@ server <- function(input, output, session) {
       )
   })
 }
-```
 
 # to run the app!!!
 shinyApp(ui = ui, server = server)
+```
