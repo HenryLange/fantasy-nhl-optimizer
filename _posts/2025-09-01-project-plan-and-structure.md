@@ -23,7 +23,7 @@ All of my work will appear on this blog. The main page includes a brief introduc
 
 My posts will show progress and findings, while the code folder will only contain my final code once I am complete. 
 
-If I need to create more folders, I will do so as I progress. Each folder will have a specific purpose and title to keep the project organized and easy to navigate
+If I need to create more folders, I will do so as I progress. Each folder will have a specific purpose and title to keep the project organized and easy to navigate.
 
 ---
 
