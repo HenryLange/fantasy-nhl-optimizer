@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Removing and Adding Tool Features
+title: "Week 7: Removing and Adding Tool Features"
 date: 2025-10-19
 ---
 
