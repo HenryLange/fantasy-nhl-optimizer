@@ -1,5 +1,5 @@
 ---
-title: "Week 8: My Team and Cleaning Up”
+title: "Week 8: My Team and Cleaning Up"
 date: 2025-10-26
 ---
 
