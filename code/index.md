@@ -22,3 +22,5 @@ Here is the code for the Fantasy NHL Optimizer project.
 - [Week 6: Tool Creation and Exploring What's Next](https://henrylange.github.io/fantasy-nhl-optimizer/code/week6/)
 
 - [Week 7: Removing and Adding Tool Features](https://henrylange.github.io/fantasy-nhl-optimizer/code/week7/)
+
+- [Week 8: My Team and Cleaning Up](https://henrylange.github.io/fantasy-nhl-optimizer/code/week8/)
