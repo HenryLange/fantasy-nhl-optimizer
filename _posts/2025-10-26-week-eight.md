@@ -110,7 +110,7 @@ There were a lot of other minor changes I made to the code that I won’t show t
 
 ---
 
-###What's Next?
+### What's Next?
 
 I’m really happy with how this week turned out. Was it challenging to do this? Yes, without a doubt. But now, I am almost 100% done. The only thing I am going to do between now and next week is figure out some **visual elements** to add to the site to make it look cooler and cleaner. I am completely done with the features I want to add. I am really satisfied with how the final tool works functionally, and now all that’s left is to finish it visually. 
 
