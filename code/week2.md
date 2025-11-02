@@ -70,3 +70,5 @@ fantasy_points_by_position
 ggsave("assets/images/fantast_points_by_position.png", plot = fantasy_points_by_position, width = 8, height = 6, dpi = 300)
 
 ```
+
+### [return to week 2 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/14/week-two.html)
