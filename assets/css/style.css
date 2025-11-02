@@ -59,9 +59,9 @@ body {
 
 .main-content {
     margin-left: 450px;
+    margin-right: 50px;
     padding: 2rem;
     flex: 1;
-    max-width: 1500px;
 }
 
 /* Responsive design */
