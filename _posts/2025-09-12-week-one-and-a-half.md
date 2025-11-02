@@ -118,3 +118,7 @@ You can find my code for this week in the [code](https://henrylange.github.io/fa
 ### What's next?
 
 Now I am all set and ready to get into the optimization. I have already learned a bunch so far, but I think it is this step that I will learn the most and be able to share a lot of that. I'm excited to get that started!
+
+---
+
+### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
