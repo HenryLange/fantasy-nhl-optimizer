@@ -84,6 +84,13 @@ body {
     flex: 1;
 }
 
+.main-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
 pre {
     background-color: #e8eef3;
     border: 1px solid #c5d0dc;
