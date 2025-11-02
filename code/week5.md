@@ -180,3 +180,5 @@ test_skater_projection <- test_skater_projection %>%
 # get these projected values for blog
 knitr::kable(test_skater_projection)
 ```
+
+### [return to week 5 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/10/05/week-five.html)
