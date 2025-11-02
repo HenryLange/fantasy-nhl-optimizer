@@ -11,6 +11,13 @@
     <div class="container">
         <aside class="sidebar">
             <div class="about-section">
+
+                <nav class="site-nav">
+                    <a href="{{ '/' | relative_url }}" class="home-link">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                </nav>
+                
                 <h2>About Me</h2>
                 <img src="{{ '/assets/images/senior-picture.jpg' | relative_url }}" alt="Profile" class="profile-img">
                 <p>{{ site.description }}</p>
