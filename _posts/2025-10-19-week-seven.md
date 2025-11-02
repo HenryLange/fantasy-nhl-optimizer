@@ -100,7 +100,7 @@ I also made some smaller, general changes that went with the others, like changi
 
 I think I made great progress on the tool this week. This is **very close to finished** in my eyes, and I can only currently think of one more thing I definitely want to add next week. Next week, I will make that addition and possibly decorate/visually enhance both my tool and this website.
 
-You can see my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
+You can see my code for this week here, in the [week 7 code](https://henrylange.github.io/fantasy-nhl-optimizer/code/week7/) page.
 
 Unless I uncover some big problems or new ideas next week, week 8 will likely be my last on this specific project. I’ve had my fun with this, and now I’m excited to move on to another project, which I’ve already started thinking about. I will share more details next week.
 
