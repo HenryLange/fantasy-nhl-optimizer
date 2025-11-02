@@ -181,3 +181,5 @@ top10_goalies_condensed = top10_goalies %>%
 kable(top10_goalies_condensed, format = "markdown")
 ```
 
+### [return to week 3 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/21/week-three.html)
+
