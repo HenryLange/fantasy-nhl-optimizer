@@ -132,3 +132,5 @@ Next week, I’ll start tackling **more advanced optimization, draft simulations
 
 
 ---
+
+### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
