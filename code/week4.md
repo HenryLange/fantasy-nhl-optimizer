@@ -183,3 +183,5 @@ ggsave("assets/images/compare_total_proj_points.png", plot = compare_total_proj_
 
 
 ```
+
+### [return to week 4 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/28/week-four.html)
