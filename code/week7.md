@@ -294,3 +294,5 @@ server <- function(input, output, session) {
 # to run the app!!!
 shinyApp(ui = ui, server = server)
 ```
+
+### [return to week 7 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/10/19/week-seven.html)
