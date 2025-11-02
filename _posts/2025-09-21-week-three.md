@@ -126,7 +126,7 @@ Something similar between the two visuals is that there are a couple of players 
 ### What’s next?
 This week is much closer to optimization than any of the other weeks. I now have projections for players by position, and one could follow these tables to pick a team with the highest projected points based on which players are available. However, this is still quite simple, and I’m hoping to dive even deeper next week.
 
-You can see my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
+You can see my code for this week here, in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/week3/) page.
 
 Next week, I’ll start tackling **more advanced optimization, draft simulations, and advanced scoring features**, adding the real constraints and possibilities that one may run into when drafting a team, depending on his or her league. The real, complex, and fun optimization.
 
