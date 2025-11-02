@@ -8,6 +8,6 @@ When I got back home to Illinois, I tried to figure out the best way to start a 
 
 The goal of this project is to apply some of the things I learned at Wharton and my classes following the program to Hockey, almost in a financially minded way. And again, we barely touched on it at the program, so I have to give hockey it's chance to shine. Hopefully, I will create a tool that develops my coding, stats, and optimization skills, and most importantly, ensures I have a great year in my fantasy league so I can choose my one of my friend's punishment. 
 
- ---
+---
 
 ### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
