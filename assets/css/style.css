@@ -124,6 +124,18 @@ pre code {
     text-decoration: none;
 }
 
+a {
+    color: inherit;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover {
+    color: #004499;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .container {
