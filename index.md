@@ -11,6 +11,8 @@ This blog documents my journey as I develop a tool to optimize fantasy points ba
 
 This optimizer is, in a way, my starting point in a new interest in my life—a way to bridge data analytics and financial thinking through something I know extremely well. Join me as I explore what happens when hockey meets algorithmic optimization.
 
+Each week's code can be found at the bottom of that corresponding week's post, with a link to a separate page.
+
 [View the current version of the fantasy optimizer here!](https://henrylange.shinyapps.io/fantasy_nhl_optimizer/)
 
 (If site it sleeping when entered, it can take up to 15 seconds to load)
