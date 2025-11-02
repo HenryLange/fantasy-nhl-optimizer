@@ -140,6 +140,10 @@ a:hover {
     color: #000000 !important;
 }
 
+h1, h3 {
+    color: #000000 !important;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .container {
