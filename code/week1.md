@@ -181,3 +181,5 @@ rowSums(is.na(goalie_stats_2425))
 # now there are no more NAs in the goalie stats for 2024-2025
 
 ```
+
+### return to week 1 post(https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/07/week-one.html)
