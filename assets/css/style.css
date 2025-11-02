@@ -58,10 +58,10 @@ body {
 }
 
 .main-content {
-    margin-left: 450px;
+    margin-left: 500px;
     padding: 2rem;
     flex: 1;
-    max-width: 1300px;
+    max-width: 1350px;
 }
 
 /* Responsive design */
