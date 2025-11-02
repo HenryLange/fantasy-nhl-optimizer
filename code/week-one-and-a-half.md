@@ -162,3 +162,5 @@ ggsave("assets/images/GAA_vs_mins_plot.png", plot = GAA_vs_mins_plot, width = 8,
 #that's all the visuals I'll do. I fixed/learned a ton about the datasets, so very worth it.
 
 ```
+
+### [return to week 1.5 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/12/week-one-and-a-half.html)
