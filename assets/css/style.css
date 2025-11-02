@@ -113,6 +113,17 @@ pre code {
     padding: 0;
 }
 
+.site-nav {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.home-link {
+    font-size: 1.1em;
+    text-decoration: none;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .container {
