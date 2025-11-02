@@ -119,3 +119,8 @@ You can see my code for this week in the [code](https://henrylange.github.io/fan
 Like I said above, next week I will make a post on the final decorative touches I make to the site, but that’s all it will be. Then, I think I will do a **personal reflection** that I’ll post in that same post or a separate one, but it will also be posted next week. Now, the thing I am super pumped for that I am doing next. 
 
 Last week, I mentioned moving on to a **new project** that I had been thinking about. I am still brainstorming all the details, but something that I think would be really cool would be to follow a similar structure that I have already been following, posting once every week. But as I have stated, I am getting really into finance. I think it would be awesome to, every week or possibly two weeks if it takes longer, **analyze a new company** financially, possibly analyzing things like **EPS** and **stock performance** compared to the industry or other financial data to analyze them as a company, and almost give a report. I think it would be super cool to build up a bunch of snapshots/reports of companies at different times as I keep analyzing, and I think it would definitely help me learn a lot when it comes to analysis and research. I don’t have this all figured out yet, but I will keep thinking on it and give an update next week on any new ideas. Until then, it is adding the final touches to this site, all shown next week. 
+
+---
+
+### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
+
