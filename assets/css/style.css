@@ -57,6 +57,16 @@ body {
     margin-right: auto;
 }
 
+.social-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.social-links a {
+    font-size: 2em;
+}
+
 .social-links a i {
     margin-right: 0.5rem;
     width: 20px;
