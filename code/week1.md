@@ -182,4 +182,4 @@ rowSums(is.na(goalie_stats_2425))
 
 ```
 
-### return to week 1 post(https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/07/week-one.html)
+### [return to week 1 post](https://henrylange.github.io/fantasy-nhl-optimizer/2025/09/07/week-one.html)
