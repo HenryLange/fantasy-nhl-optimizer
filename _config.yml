@@ -2,6 +2,7 @@ title: Fantasy NHL Optimizer
 description: A blog tracking my Fantasy NHL project using R
 baseurl: "" 
 url: "https://HenryLange.github.io/fantasy-nhl-optimizer"
+theme: minima
 paginate: 5
 
 # fixing links
