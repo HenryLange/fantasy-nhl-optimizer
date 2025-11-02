@@ -103,3 +103,7 @@ I think I made great progress on the tool this week. This is **very close to fin
 You can see my code for this week in the [code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) section.
 
 Unless I uncover some big problems or new ideas next week, week 8 will likely be my last on this specific project. I’ve had my fun with this, and now I’m excited to move on to another project, which I’ve already started thinking about. I will share more details next week.
+
+---
+
+### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
