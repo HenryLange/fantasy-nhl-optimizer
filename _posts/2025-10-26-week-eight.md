@@ -114,7 +114,7 @@ There were a lot of other minor changes I made to the code that I won’t show t
 
 I’m really happy with how this week turned out. Was it challenging to do this? Yes, without a doubt. But now, I am almost 100% done. The only thing I am going to do between now and next week is figure out some **visual elements** to add to the site to make it look cooler and cleaner. I am completely done with the features I want to add. I am really satisfied with how the final tool works functionally, and now all that’s left is to finish it visually. 
 
-You can see my code for this week here, in the [week 8 code](https://henrylange.github.io/fantasy-nhl-optimizer/code/) page.
+You can see my code for this week here, in the [week 8 code](https://henrylange.github.io/fantasy-nhl-optimizer/code/week8/) page.
 
 Like I said above, next week I will make a post on the final decorative touches I make to the site, but that’s all it will be. Then, I think I will do a **personal reflection** that I’ll post in that same post or a separate one, but it will also be posted next week. Now, the thing I am super pumped for that I am doing next. 
 
