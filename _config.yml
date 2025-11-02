@@ -11,3 +11,7 @@ baseurl: "/fantasy-nhl-optimizer"
 
 header_pages:
   - code/index.md 
+
+# trying to get code to be formatted/appear better in posts
+markdown: kramdown
+highlighter: rouge
