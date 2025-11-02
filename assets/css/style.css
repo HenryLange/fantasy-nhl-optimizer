@@ -124,15 +124,18 @@ pre code {
     text-decoration: none;
 }
 
-a {
+.social-links a,
+.home-link {
     color: #0066cc;
 }
 
-a:visited {
+.social-links a:visited,
+.home-link:visited {
     color: #0066cc;
 }
 
-a:hover {
+.social-links a:hover,
+.home-link:hover {
     color: #004499;
 }
 
