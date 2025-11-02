@@ -57,6 +57,12 @@ body {
     margin-right: auto;
 }
 
+.social-links a i {
+    margin-right: 0.5rem;
+    width: 20px;
+    text-align: center;
+}
+
 .main-content {
     margin-left: 450px;
     margin-right: 25px;
