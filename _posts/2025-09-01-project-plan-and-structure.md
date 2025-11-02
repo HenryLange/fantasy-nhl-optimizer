@@ -55,4 +55,7 @@ The project will use R and several key libraries within it:
 
 In the following week, I will dive into loading and exploring the NHL dataset, summarizing key stats, and preparing it for the optimizer. I will spend time looking for a great dataset, and I want to become familiar with that dataset so the optimization works how I intend it to. Taking the time to go through the dataset and learn more about it before I make this tool will all be tracked and documented in my next post on Sunday.
 
+---
+
+### [Return Home](https://henrylange.github.io/fantasy-nhl-optimizer/)
 
