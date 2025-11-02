@@ -136,8 +136,8 @@ a:hover {
     color: #004499;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #000000;
+.about-section h2 {
+    color: #000000 !important;
 }
 
 /* Responsive design */
