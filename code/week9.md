@@ -43,7 +43,7 @@ week 9 HTML:
                         <i class="fas fa-envelope"></i> My personal Email
                     </a>
                 </div>
-        </aside>
+        </aside> <!--HTML ends here, the rest is the app/week 8 code--->
 
         <main class="main-content">
             {{ content }}
