@@ -1,3 +1,9 @@
+---
+title: "Week 9 Code"
+layout: page
+permalink: /code/week9/
+---
+
 week 9 HTML:
 ```
 <!DOCTYPE html>
