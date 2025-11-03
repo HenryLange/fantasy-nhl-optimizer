@@ -45,15 +45,12 @@ week 9 HTML:
                 </div>
         </aside>
 
-        <!--
         <main class="main-content">
             {{ content }}
         </main>
     </div>
 </body>
 </html>
-commenting this part so it isn't filled with the large main content code
---->
 ```
 week 9 CSS:
 ```
