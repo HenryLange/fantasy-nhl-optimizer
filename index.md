@@ -15,5 +15,5 @@ Each week's code can be found at the bottom of that corresponding week's post, w
 
 [View the current version of the fantasy optimizer here!](https://henrylange.shinyapps.io/fantasy_nhl_optimizer/)
 
-(If site it sleeping when entered, it can take up to 15 seconds to load)
+(If site is sleeping when entered, it can take up to 15 seconds to load)
 
